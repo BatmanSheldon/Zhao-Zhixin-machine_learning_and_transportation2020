@@ -71,9 +71,7 @@ I found that the "MEDV" column  from teacher Peter's Project Option has changed 
 I don't know why.
 
 
-###  Summary
-
-1. When selecting the data proportion of test set is not appropriate, the accuracy of the algorithm is very low, which makes it difficult to draw a picture.
+###  Summary1. When selecting the data proportion of test set is not appropriate, the accuracy of the algorithm is very low, which makes it difficult to draw a picture.
 
 2.Learned how to prevent Chinese characters from getting confused.Moreover, a preliminary conclusion is reached that SVM classifier and KNN classifier have the highest accuracy, followed by Logistic classifier, and Ridge classifier has the lowest accuracy when iris test data account for 40% of the total.
 
